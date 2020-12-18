@@ -1,0 +1,24 @@
+.qButtons{
+margin-left:20%;
+margin-top:10px;
+}
+
+#quest{
+    margin-left:20%;
+    margin-bottom: 30px;
+    
+}
+#pBar{
+    width:60%;
+    margin-left: 20%;
+}
+#timerTag{
+    margin-top: 50px;
+    margin-left: 48%;
+   
+}
+
+
+#submitButton{
+    margin-left:20%;
+}
